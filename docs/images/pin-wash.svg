@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="260" viewBox="0 0 760 260" font-family="Helvetica, Arial, sans-serif">
+  <rect width="760" height="260" fill="#ffffff"/>
+  <text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Pin wash: panel line before and after</text>
+  <g font-size="14" text-anchor="middle">
+    <path d="M40,90 L160,90 L170,110 L180,90 L300,90 L300,140 L40,140 z" fill="#5b7a3a"/>
+    <path d="M40,90 L160,90 L170,110 L180,90 L300,90" fill="none" stroke="#cfd8c0" stroke-width="3"/>
+    <text x="170" y="170" font-weight="bold">1. Gloss coat over the colour</text>
+    
+    <path d="M330,90 L450,90 L460,110 L470,90 L590,90 L590,140 L330,140 z" fill="#5b7a3a"/>
+    <path d="M425,90 L450,90 L460,110 L470,90 L495,90 L495,93 L425,93 z" fill="#3b2a1a" opacity="0.75"/>
+    <text x="460" y="170" font-weight="bold">2. Touch brush to line</text>
+    <text x="460" y="190">wash flows along it</text>
+    <path d="M610,90 L630,90 L640,110 L650,90 L740,90 L740,140 L610,140 z" fill="#5b7a3a"/>
+    <path d="M634,98 L640,110 L646,98 z" fill="#3b2a1a"/>
+    <text x="675" y="170" font-weight="bold">3. Wipe excess</text>
+    <text x="675" y="190">with damp brush/bud</text>
+  </g>
+  <text x="380" y="236" text-anchor="middle" font-size="15" fill="#444">Wipe in the direction of airflow or gravity. Dark brown looks more natural than black.</text>
+</svg>

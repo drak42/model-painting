@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="340" viewBox="0 0 760 340" font-family="Helvetica, Arial, sans-serif">
+  <rect width="760" height="340" fill="#ffffff"/>
+  <text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Lexan body: painted from the inside</text>
+  <text x="200" y="66" text-anchor="middle" font-size="15" fill="#2c7">Viewed from outside ▼</text>
+  
+  <!-- layers -->
+  <rect x="60" y="96" width="280" height="14" fill="#dfe7ee" stroke="#aaa" stroke-dasharray="4 3"/>
+  <rect x="60" y="110" width="280" height="26" fill="#cfe9f7" stroke="#7ab" opacity="0.9"/>
+  <rect x="60" y="136" width="90" height="14" fill="#ffffff" stroke="#bbb"/>
+  <rect x="150" y="136" width="190" height="14" fill="none"/>
+  <rect x="60" y="150" width="280" height="16" fill="#e74c3c"/>
+  <rect x="60" y="136" width="90" height="0"/>
+  <rect x="150" y="136" width="190" height="14" fill="#e74c3c"/>
+  <rect x="60" y="166" width="280" height="16" fill="#111"/>
+  <g font-size="14" fill="#222">
+    <text x="350" y="108">Protective film — peel off at the end</text>
+    <text x="350" y="128">Clear polycarbonate shell (the gloss finish)</text>
+    <text x="350" y="147">1st sprayed: details / stripes (here white)</text>
+    <text x="350" y="163">2nd sprayed: main colour (red)</text>
+    <text x="350" y="180">Last: black or silver backing coat</text>
+  </g>
+  <text x="200" y="210" text-anchor="middle" font-size="15" fill="#2c7">Spray side (inside) ▲</text>
+  <!-- what you see -->
+  <text x="200" y="250" text-anchor="middle" font-size="15" font-weight="bold" fill="#222">Result seen from outside:</text>
+  <rect x="60" y="262" width="90" height="30" fill="#ffffff" stroke="#bbb"/>
+  <rect x="150" y="262" width="190" height="30" fill="#e74c3c"/>
+  <text x="380" y="270" font-size="14" fill="#444">First colour sprayed = the one on top.</text>
+  <text x="380" y="290" font-size="14" fill="#444">Paint light before dark; back everything with black or silver.</text>
+  <text x="380" y="312" font-size="14" fill="#c0392b">Use polycarbonate paint only (Tamiya PS, Spaz Stix).</text>
+</svg>

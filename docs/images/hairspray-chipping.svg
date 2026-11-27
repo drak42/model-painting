@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300" font-family="Helvetica, Arial, sans-serif">
+  <rect width="760" height="300" fill="#ffffff"/>
+  <text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Hairspray / chipping-fluid technique</text>
+  <g font-size="14" text-anchor="middle">
+    <!-- step 1 -->
+    <rect x="20" y="120" width="160" height="20" fill="#e8e4da" stroke="#999"/>
+    <rect x="20" y="108" width="160" height="12" fill="#7a3b1e"/>
+    <text x="100" y="70" font-weight="bold">1. Rust / primer</text><text x="100" y="90">colour, sealed</text>
+    <!-- step 2 -->
+    <rect x="205" y="120" width="160" height="20" fill="#e8e4da" stroke="#999"/>
+    <rect x="205" y="108" width="160" height="12" fill="#7a3b1e"/>
+    <rect x="205" y="102" width="160" height="6" fill="#d7ecf7" stroke="#8ab"/>
+    <text x="285" y="70" font-weight="bold">2. Hairspray or</text><text x="285" y="90">chipping fluid</text>
+    <!-- step 3 -->
+    <rect x="390" y="120" width="160" height="20" fill="#e8e4da" stroke="#999"/>
+    <rect x="390" y="108" width="160" height="12" fill="#7a3b1e"/>
+    <rect x="390" y="102" width="160" height="6" fill="#d7ecf7" stroke="#8ab"/>
+    <rect x="390" y="90" width="160" height="12" fill="#5b7a3a"/>
+    <text x="470" y="60" font-weight="bold">3. Top colour</text><text x="470" y="78">(acrylic)</text>
+    <!-- step 4 -->
+    <rect x="575" y="120" width="160" height="20" fill="#e8e4da" stroke="#999"/>
+    <rect x="575" y="108" width="160" height="12" fill="#7a3b1e"/>
+    <rect x="575" y="90" width="40" height="18" fill="#5b7a3a"/>
+    <rect x="632" y="90" width="55" height="18" fill="#5b7a3a"/>
+    <rect x="705" y="90" width="30" height="18" fill="#5b7a3a"/>
+    <text x="655" y="60" font-weight="bold">4. Wet + scrub</text><text x="655" y="78">reveals the rust</text>
+  </g>
+  <g font-size="13" fill="#444">
+    <rect x="40" y="180" width="16" height="12" fill="#5b7a3a"/><text x="64" y="191">Top colour</text>
+    <rect x="160" y="180" width="16" height="12" fill="#d7ecf7" stroke="#8ab"/><text x="184" y="191">Hairspray (water-soluble)</text>
+    <rect x="360" y="180" width="16" height="12" fill="#7a3b1e"/><text x="384" y="191">Rust / primer</text>
+    <rect x="500" y="180" width="16" height="12" fill="#e8e4da" stroke="#999"/><text x="524" y="191">Plastic</text>
+  </g>
+  <text x="380" y="235" text-anchor="middle" font-size="15" fill="#444">Wait 10–30 minutes after the top colour, wet with warm water,</text>
+  <text x="380" y="257" text-anchor="middle" font-size="15" fill="#444">then lift paint with a stiff brush or toothpick where wear would happen.</text>
+</svg>

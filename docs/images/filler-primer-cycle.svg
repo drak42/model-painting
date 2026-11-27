@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="350" viewBox="0 0 760 350" font-family="Helvetica, Arial, sans-serif">
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs>
+  <rect width="760" height="350" fill="#ffffff"/>
+  <text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Removing layer lines on PLA / PETG</text>
+  <g font-size="14" text-anchor="middle">
+    <!-- profile 1: raw print -->
+    <path d="M30,130 q10,-14 20,0 q10,-14 20,0 q10,-14 20,0 q10,-14 20,0 q10,-14 20,0 q10,-14 20,0 q10,-14 20,0 L170,160 L30,160 z" fill="#e07b39"/>
+    <text x="100" y="185" font-weight="bold">1. Raw print</text><text x="100" y="203">ridged layer lines</text>
+    <!-- profile 2: sanded -->
+    <path d="M220,126 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 L360,160 L220,160 z" fill="#e07b39"/>
+    <text x="290" y="185" font-weight="bold">2. Sand, wet</text><text x="290" y="203">120–220 grit</text>
+    <!-- profile 3: filler -->
+    <path d="M410,126 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 L550,160 L410,160 z" fill="#e07b39"/>
+    <path d="M410,126 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 L550,112 L410,112 z" fill="#9a9a9a"/>
+    <text x="480" y="185" font-weight="bold">3. Filler primer</text><text x="480" y="203">fills the valleys</text>
+    <!-- profile 4: sanded flat -->
+    <path d="M600,126 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 L740,160 L600,160 z" fill="#e07b39"/>
+    <path d="M600,126 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 q10,-6 20,0 L740,120 L600,120 z" fill="#9a9a9a"/>
+    <text x="670" y="185" font-weight="bold">4. Sand flat</text><text x="670" y="203">240–400 grit</text>
+  </g>
+  <g stroke="#555" stroke-width="2" fill="none" marker-end="url(#a)">
+    <line x1="176" y1="140" x2="212" y2="140"/><line x1="366" y1="140" x2="402" y2="140"/><line x1="556" y1="140" x2="592" y2="140"/>
+    <path d="M670,215 C670,265 480,265 480,215"/>
+  </g>
+  <text x="575" y="282" text-anchor="middle" font-size="14" fill="#555">repeat 2–4 times</text>
+  <text x="380" y="318" text-anchor="middle" font-size="15" fill="#444">Finish with a thin coat of fine primer, then paint.</text>
+  <text x="380" y="338" text-anchor="middle" font-size="15" fill="#444">PETG: scuff everything and use a plastic adhesion promoter before the primer.</text>
+</svg>

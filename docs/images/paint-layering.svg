@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" font-family="Helvetica, Arial, sans-serif">
+  <rect width="720" height="360" fill="#ffffff"/>
+  <text x="360" y="32" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Safe layering order (cross-section of a model)</text>
+  <rect x="60" y="60" width="420" height="46" fill="#8a5a2b"/>
+  <text x="270" y="89" text-anchor="middle" font-size="16" fill="#fff">Oils / enamels — washes, filters, streaks</text>
+  <rect x="60" y="106" width="420" height="46" fill="#cfd8c0"/>
+  <text x="270" y="135" text-anchor="middle" font-size="16" fill="#222">Clear coat (gloss or matte)</text>
+  <rect x="60" y="152" width="420" height="46" fill="#5b7a3a"/>
+  <text x="270" y="181" text-anchor="middle" font-size="16" fill="#fff">Acrylic — base colour, details</text>
+  <rect x="60" y="198" width="420" height="46" fill="#9a9a9a"/>
+  <text x="270" y="227" text-anchor="middle" font-size="16" fill="#fff">Lacquer — primer, metallics</text>
+  <rect x="60" y="244" width="420" height="46" fill="#e8e4da" stroke="#999"/>
+  <text x="270" y="273" text-anchor="middle" font-size="16" fill="#222">Plastic</text>
+  <line x1="530" y1="280" x2="530" y2="70" stroke="#c0392b" stroke-width="4"/>
+  <polygon points="520,74 540,74 530,56" fill="#c0392b"/>
+  <text x="550" y="80" font-size="15" fill="#222">Weaker solvent</text>
+  <text x="550" y="98" font-size="15" fill="#222">on top</text>
+  <text x="550" y="262" font-size="15" fill="#222">Strongest solvent</text>
+  <text x="550" y="280" font-size="15" fill="#222">at the bottom</text>
+  <text x="360" y="326" text-anchor="middle" font-size="15" fill="#444">Each layer's thinner must not dissolve the layer below it.</text>
+  <text x="360" y="346" text-anchor="middle" font-size="15" fill="#c0392b">Never spray lacquer over acrylic or enamel — it lifts and wrinkles them.</text>
+</svg>

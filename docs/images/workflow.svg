@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420" font-family="Helvetica, Arial, sans-serif">
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker></defs>
+  <rect width="760" height="420" fill="#ffffff"/>
+  <text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">Painting workflow</text>
+  <g font-size="14" text-anchor="middle">
+    <!-- row 1: prepare -->
+    <text x="20" y="62" text-anchor="start" font-weight="bold" fill="#666">PREPARE</text>
+    <rect x="20" y="72" width="160" height="50" rx="8" fill="#e8e4da" stroke="#999"/><text x="100" y="102">Wash parts</text>
+    <rect x="210" y="72" width="160" height="50" rx="8" fill="#e8e4da" stroke="#999"/><text x="290" y="102">Clean seams, fill</text>
+    <rect x="400" y="72" width="160" height="50" rx="8" fill="#9a9a9a"/><text x="480" y="102" fill="#fff">Prime</text>
+    <rect x="590" y="72" width="150" height="50" rx="8" fill="#e8e4da" stroke="#999"/><text x="665" y="102">Fix flaws</text>
+    <!-- row 2: paint -->
+    <text x="20" y="162" text-anchor="start" font-weight="bold" fill="#666">PAINT</text>
+    <rect x="20" y="172" width="160" height="50" rx="8" fill="#5b7a3a"/><text x="100" y="202" fill="#fff">Base colour</text>
+    <rect x="210" y="172" width="160" height="50" rx="8" fill="#5b7a3a"/><text x="290" y="202" fill="#fff">Camo + details</text>
+    <rect x="400" y="172" width="160" height="50" rx="8" fill="#cfd8c0" stroke="#999"/><text x="480" y="202">Gloss coat</text>
+    <rect x="590" y="172" width="150" height="50" rx="8" fill="#cfd8c0" stroke="#999"/><text x="665" y="194">Decals +</text><text x="665" y="212">gloss seal</text>
+    <!-- row 3: weather -->
+    <text x="20" y="262" text-anchor="start" font-weight="bold" fill="#666">WEATHER</text>
+    <rect x="20" y="272" width="160" height="50" rx="8" fill="#8a5a2b"/><text x="100" y="302" fill="#fff">Pin wash</text>
+    <rect x="210" y="272" width="160" height="50" rx="8" fill="#8a5a2b"/><text x="290" y="302" fill="#fff">Filters</text>
+    <rect x="400" y="272" width="160" height="50" rx="8" fill="#8a5a2b"/><text x="480" y="294" fill="#fff">Chipping, streaks,</text><text x="480" y="312" fill="#fff">rust, patina</text>
+    <rect x="590" y="272" width="150" height="50" rx="8" fill="#cfd8c0" stroke="#999"/><text x="665" y="302">Matte varnish</text>
+    <!-- row 4: finish -->
+    <text x="20" y="362" text-anchor="start" font-weight="bold" fill="#666">FINISH</text>
+    <rect x="20" y="372" width="160" height="40" rx="8" fill="#c9a66b"/><text x="100" y="397">Dust + mud</text>
+    <rect x="210" y="372" width="160" height="40" rx="8" fill="#c9a66b"/><text x="290" y="397">Fluid stains</text>
+    <rect x="400" y="372" width="160" height="40" rx="8" fill="#e8e4da" stroke="#999"/><text x="480" y="397">Final assembly</text>
+  </g>
+  <g stroke="#555" stroke-width="2" fill="none" marker-end="url(#a)">
+    <line x1="180" y1="97" x2="206" y2="97"/><line x1="370" y1="97" x2="396" y2="97"/><line x1="560" y1="97" x2="586" y2="97"/>
+    <path d="M665,122 L665,146 L150,146 L150,168"/>
+    <line x1="180" y1="197" x2="206" y2="197"/><line x1="370" y1="197" x2="396" y2="197"/><line x1="560" y1="197" x2="586" y2="197"/>
+    <path d="M665,222 L665,246 L150,246 L150,268"/>
+    <line x1="180" y1="297" x2="206" y2="297"/><line x1="370" y1="297" x2="396" y2="297"/><line x1="560" y1="297" x2="586" y2="297"/>
+    <path d="M665,322 L665,346 L150,346 L150,368"/>
+    <line x1="180" y1="392" x2="206" y2="392"/><line x1="370" y1="392" x2="396" y2="392"/>
+  </g>
+</svg>
