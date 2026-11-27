@@ -105,6 +105,7 @@ the toughest combination and is the best choice for PETG or other slick plastics
 
 Use an acrylic varnish (AK makes gloss, satin and matte; any acrylic varnish works). Spray or brush
 thin coats; let cure 24 h before enamel weathering.
+See [Clear Top Coats](clear-coats.md) for the final seal over weathering.
 
 ## 5. Using AK enamel washes and effects
 

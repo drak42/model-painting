@@ -331,6 +331,9 @@ Verdigris forms on copper, brass and bronze — statues, roofs, propellers, fitt
 
 ## 11. Final coat and finishing
 
+For choosing products, sealing weathering and pigments, and fixing frosting, see
+[Sealing Finished Work: Clear Top Coats](clear-coats.md).
+
 - Seal everything with a **matte or satin varnish** appropriate to the subject — Tamiya XF-86
   Flat Clear, Mr. Color GX113 Super Clear III Flat, Vallejo Matt Varnish (airbrush), AK Ultra
   Matte Varnish, or Testors Dullcote.
