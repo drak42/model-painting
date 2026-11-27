@@ -10,6 +10,9 @@ change, so check the maker's current catalogue before buying.
 Painting 3D prints (PLA, PETG) or Lexan RC bodies? Read
 [Painting by Material](painting-by-material.md) first for preparation and primer.
 
+Using AK Interactive acrylics, enamels and pigments? See
+[the AK Interactive workflow](ak-interactive-workflow.md).
+
 ## Contents
 
 1. [Paint systems and why the order matters](#1-paint-systems-and-why-the-order-matters)

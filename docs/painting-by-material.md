@@ -14,6 +14,9 @@ For the painting and weathering techniques themselves (washes, chipping, rust, v
 the [main painting guide](painting-guide.md). This page is about getting the paint to stick and
 look right on each material.
 
+Using AK Interactive acrylics, enamels and pigments? See
+[the AK Interactive workflow](ak-interactive-workflow.md).
+
 ## Contents
 
 1. [Rules that apply to every material](#1-rules-that-apply-to-every-material)

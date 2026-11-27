@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420" font-family="Helvetica, Arial, sans-serif">
+  <rect width="760" height="420" fill="#ffffff"/>
+  <text x="380" y="30" text-anchor="middle" font-size="20" font-weight="bold" fill="#222">AK Interactive layer stack</text>
+  <g font-size="15">
+    <rect x="40" y="56" width="360" height="40" fill="#c9a66b"/>
+    <text x="220" y="81" text-anchor="middle" fill="#222">Pigments + AK048 fixer</text>
+    <rect x="40" y="96" width="360" height="40" fill="#8a5a2b"/>
+    <text x="220" y="121" text-anchor="middle" fill="#fff">Enamel: streaks, filters, rust streaks</text>
+    <rect x="40" y="136" width="360" height="32" fill="#cfd8c0"/>
+    <text x="220" y="157" text-anchor="middle" fill="#222">Matte / satin varnish</text>
+    <rect x="40" y="168" width="360" height="40" fill="#6b4a2b"/>
+    <text x="220" y="193" text-anchor="middle" fill="#fff">Enamel: pin wash</text>
+    <rect x="40" y="208" width="360" height="32" fill="#e3ecd5"/>
+    <text x="220" y="229" text-anchor="middle" fill="#222">Gloss varnish (+ decals)</text>
+    <rect x="40" y="240" width="360" height="46" fill="#5b7a3a"/>
+    <text x="220" y="268" text-anchor="middle" fill="#fff">AK acrylics: base, camo, chips</text>
+    <rect x="40" y="286" width="360" height="32" fill="#9a9a9a"/>
+    <text x="220" y="307" text-anchor="middle" fill="#fff">Primer</text>
+    <rect x="40" y="318" width="360" height="30" fill="#e8e4da" stroke="#999"/>
+    <text x="220" y="338" text-anchor="middle" fill="#222">Plastic</text>
+  </g>
+  <g font-size="14" fill="#333">
+    <text x="420" y="81">Fix with: AK048 / thinner</text>
+    <text x="420" y="121">Thin/wipe: AK050 odourless thinner</text>
+    <text x="420" y="157">Barrier — wait 24 h</text>
+    <text x="420" y="193">Clean after 10–20 min; dry overnight</text>
+    <text x="420" y="229">Barrier — wait 24 h</text>
+    <text x="420" y="262">Thin: AK11500 or water</text>
+    <text x="420" y="280">Cure 24 h before enamels</text>
+  </g>
+  <text x="380" y="380" text-anchor="middle" font-size="15" fill="#444">Enamel thinner doesn't dissolve cured acrylic, so enamel mistakes wipe off safely.</text>
+  <text x="380" y="402" text-anchor="middle" font-size="15" fill="#c0392b">Pigment fixer is enamel-based: let enamel layers dry overnight before using it.</text>
+</svg>
